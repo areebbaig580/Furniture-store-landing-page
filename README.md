@@ -4,8 +4,7 @@
 A modern furniture e-commerce landing page built using
 <strong>React</strong> and <strong>Tailwind CSS</strong>.
 
-This project was created to practice component-based development,
-responsive design, reusable UI sections, and utility-first styling with Tailwind CSS.
+This project was created to practice component-based development, reusable UI sections, and utility-first styling with Tailwind CSS.
 </p>
 
 <h2>📸 Preview</h2>
