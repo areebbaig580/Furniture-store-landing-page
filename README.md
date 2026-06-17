@@ -37,7 +37,7 @@ responsive design, reusable UI sections, and utility-first styling with Tailwind
     <li>Modern UI Design Principles</li>
 </ul>
 
-<h2>🧠 What I Learned</h2>
+<h2> What I Learned</h2>
 
 <ul>
     <li>Building reusable React components</li>
