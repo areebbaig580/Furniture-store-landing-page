@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+ul{
+    cursor: pointer;
+    font-weight: 500;
+}
+ul:hover{
+    text-decoration: underline;
+    text-underline-offset: 6px
+}
