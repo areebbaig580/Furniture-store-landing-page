@@ -10,11 +10,11 @@ This project was created to practice component-based development, reusable UI se
 <h2>📸 Preview</h2>
 
 <p>
-<img src="src/assets/preview-1.png" alt="Landing Page Preview" width="100%">
+<img src="landing-page/src/assets/preview-1.png" alt="Landing Page Preview" width="100%">
 </p>
 
 <p>
-<img src="src/assets/preview-2.png" alt="Product Section Preview" width="100%">
+<img src="landing-page/src/assets/preview-2.png" alt="Product Section Preview" width="100%">
 </p>
 
 <h2> Technologies Used</h2>
